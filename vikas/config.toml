@@ -1,0 +1,25 @@
+baseURL = 'https://vikasrajpoot30.github.io/vikas.github.io/'
+languageCode = 'en-us'
+title = 'Vikas Rajpoot'
+
+theme="hugo-PaperMod"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "vikas.github.io/about/"
+
+  [[menu.main]]
+    identifier = "work"
+    name = "Work"
+    title = "Work"
+    url = "/work/"
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    title = "Contact"
+    url = "/contact/"

@@ -1,0 +1,4 @@
+[submodule "vikas/public"]
+	path = vikas/public
+	url = https://github.com/vikasrajpoot30/vikas.github.io.git
+	branch = main
